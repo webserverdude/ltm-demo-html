@@ -1,4 +1,4 @@
-    # F5 BIG-IP Load Balancer Demo Page
+# F5 BIG-IP Load Balancer Demo Page
 
 This repository contains a simple demo page intended for use with F5 BIG-IP load balancers.
 It can be used to test, visualize, and troubleshoot basic load balancing configurations.
